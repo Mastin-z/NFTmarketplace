@@ -1,6 +1,7 @@
 # NFTMarket-Competition
 NFTMarket-Competition Code File<br>
-1.用VS Code打开文件夹:<br>
+1.用VS Code打开文件夹并输入一下命令配置环境:<br>
+```npm install```<br>
 2.打开终端输入以下命令运行后端:<br>
 ```node server.js```<br>
 3.在终端内依次输入以下命令构建并运行程序:<br>
