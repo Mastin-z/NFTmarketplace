@@ -1,5 +1,5 @@
 # NFTMarketplace
-NFTMarket-Competition Code File<br>
+NFTMarketplace Code File<br>
 1. Open the folder with VS Code and enter the following command to configure the environment:<br>
 ```npm install```<br>
 2. Open the terminal and run the following command to run the back-end:<br>
